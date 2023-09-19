@@ -7,9 +7,9 @@ st.set_page_config(
 st.title("About Us")
 
 st.markdown("""
-## PepInvest: Revolutionizing Peptide Research Through Crowdfunding
+## PepMine: Revolutionizing Peptide Research Through Crowdfunding
 
-Welcome to PepInvest, the frontier platform where innovation in peptide research meets crowdfunding. We're here to bridge the gap between investors and groundbreaking peptide discoveries. Here's how we're making a difference:
+Welcome to PepMine, the frontier platform where innovation in peptide research meets crowdfunding. We're here to bridge the gap between investors and groundbreaking peptide discoveries. Here's how we're making a difference:
 
 ### Our Vision
 To foster a community where every investor becomes a part of revolutionary peptide research, owning a share of the discoveries and the wealth generated from it.
@@ -32,7 +32,7 @@ To foster a community where every investor becomes a part of revolutionary pepti
 ### Join Us
 Be a part of this revolutionary journey. Together, let's make a significant stride in peptide research and open doors to unprecedented discoveries and wealth generation.
 
-*Invest in the future, invest with PepInvest.*
+*Invest in the future, invest with PepMine.*
 
 """)
 
@@ -40,7 +40,7 @@ st.markdown("""
 ### Contact Us
 Feel free to reach out to us for any queries, suggestions, or collaborations.
 
-- **Email**: contact@pepinvest.com
+- **Email**: contact@pepmine.com
 - **Phone**: 123-456-7890
 - **Address**: 123, Innovation Street, Science City
 """)
