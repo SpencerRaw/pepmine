@@ -12,13 +12,13 @@ st.set_page_config(
 
 st.title("Don't know what to fund? Try it!")
 
-if "my_input" not in st.session_state:
-    st.session_state["my_input"] = ""
+if "our_input" not in st.session_state:
+    st.session_state["our_input"] = ""
 
-my_input = st.text_input("What property are you interested in?", st.session_state["my_input"])
+my_input = st.text_input("What property are you interested in?", st.session_state["our_input"])
 # submit = st.button("Submit")
 if my_input:
-    st.session_state["my_input"] = "AABBC"
+    st.session_state["our_input"] = "AABBC"
     search_result =db.get_pep("AABBC")
     # print(search_result)
     if search_result:
